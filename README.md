@@ -1,4 +1,4 @@
 # PizzaProject
 
-Admin usernam: admin              
+Admin username: admin              
 Admin password: admin
